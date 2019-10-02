@@ -1,0 +1,17 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+    <java version="11.0.3" class="java.beans.XMLDecoder">
+     <object class="jp.data.ConfigData">
+      <void property="int1">
+       <int>100</int>
+      </void>
+      <void property="sno">
+       <int>2</int>
+      </void>
+      <void property="str1">
+       <string>ABC</string>
+      </void>
+      <void property="str2">
+       <string>XYC</string>
+      </void>
+     </object>
+    </java>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.3" class="java.beans.XMLDecoder">
+ <object class="jp.data.ConfigDataList" id="ConfigDataList0">
+  <void property="list">
+   <void method="add">
+    <object class="jp.data.ConfigData">
+     <void property="int1">
+      <int>100</int>
+     </void>
+     <void property="sno">
+      <int>3</int>
+     </void>
+     <void property="str1">
+      <string>あいうえお</string>
+     </void>
+     <void property="str2">
+      <string>XYC</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="jp.data.ConfigData">
+     <void property="int1">
+      <int>100</int>
+     </void>
+     <void property="sno">
+      <int>10</int>
+     </void>
+     <void property="str1">
+      <string>ABC</string>
+     </void>
+     <void property="str2">
+      <string>XYC</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="jp.data.ConfigData">
+     <void property="int1">
+      <int>100</int>
+     </void>
+     <void property="sno">
+      <int>1</int>
+     </void>
+     <void property="str1">
+      <string>ABC</string>
+     </void>
+     <void property="str2">
+      <string>XYC</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
